@@ -6,7 +6,7 @@ public class Script1Test
 {
 	//hello
 	//hi
-	
+	//u can do that
 	//hi hello
 	@Test
 	public void test1()
