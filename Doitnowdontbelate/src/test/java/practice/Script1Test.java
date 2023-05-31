@@ -6,6 +6,8 @@ public class Script1Test
 {
 	//hello
 	//hi
+	
+	//hi hello
 	@Test
 	public void test1()
 	{
