@@ -19,4 +19,12 @@ public class Script1Test
 		System.out.println("run1");
 	}
 
+	@Test
+	public void test3()
+	{
+		System.out.println("run3");
+	}
+	
+	//hello how u douing
+
 }
