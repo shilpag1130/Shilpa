@@ -14,6 +14,11 @@ public class Script1Test
 	{
 		System.out.println("run1");
 	}
+	public void test2()
+	{
+		System.out.println("run1");
+	}
+
 	@Test
 	public void test3()
 	{
